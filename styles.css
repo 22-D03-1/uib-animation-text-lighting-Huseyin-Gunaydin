@@ -16,42 +16,32 @@ section span {
   animation: infinite;
   animation-duration: 0.8s;
 }
+section > span {
+  animation-name: lighting;
+}
 
 .eins {
-  animation-name: lighting;
   animation-delay: 0s;
 }
-
 .zwei {
-  animation-name: lighting;
   animation-delay: 0.1s;
 }
-
 .drei {
-  animation-name: lighting;
   animation-delay: 0.2s;
 }
-
 .vier {
-  animation-name: lighting;
   animation-delay: 0.3s;
 }
-
 .fünf {
-  animation-name: lighting;
   animation-delay: 0.4s;
 }
-
 .sechs {
-  animation-name: lighting;
   animation-delay: 0.5s;
 }
 .sieben {
-  animation-name: lighting;
   animation-delay: 0.6s;
 }
 .acht {
-  animation-name: lighting;
   animation-delay: 0.7s;
 }
 
