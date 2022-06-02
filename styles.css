@@ -8,7 +8,7 @@ body {
 }
 section span {
   font-family: "Lato";
-  font-size: 4rem;
+  font-size: 80px;
   color: #464545;
   letter-spacing: 40px;
   font-weight: bold;
@@ -57,6 +57,6 @@ section > span {
 
   100% {
     color: yellow;
-    text-shadow: 0px 0px 25px yellow;
+    text-shadow: 0px 0px 25px #ff6c00;
   }
 }
